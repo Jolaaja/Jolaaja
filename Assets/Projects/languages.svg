@@ -9,5 +9,5 @@
     <rect x="1" y="1" width="1198" height="168" rx="21" fill="none" stroke="#c7a66a" stroke-opacity=".55" stroke-width="2"/>
     <text x="600" y="57" text-anchor="middle" fill="#f4efe7" font-family="Segoe UI,Arial,sans-serif" font-size="23" font-weight="700" letter-spacing="5">MOST USED LANGUAGES</text>
     <rect x="440" y="76" width="320" height="2" rx="1" fill="url(#rule)"/>
-    <text x="600" y="119" text-anchor="middle" fill="#c9c1b4" font-family="Segoe UI,Arial,sans-serif" font-size="16">A snapshot of activity across public repositories</text>
+    <text x="600" y="119" text-anchor="middle" fill="#c9c1b4" font-family="Segoe UI,Arial,sans-serif" font-size="19">A snapshot of activity across public repositories</text>
 </svg>
