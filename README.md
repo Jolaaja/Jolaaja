@@ -36,7 +36,7 @@
 </div>
 
 <p align="center">
-  Based in <strong>Bandung, Indonesia</strong> &nbsp; / &nbsp; Open to internship opportunities
+  Open to internship opportunities
 </p>
 
 <br />
@@ -82,7 +82,7 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jolaaja&amp;layout=compact&amp;langs_count=6&amp;bg_color=25231F&amp;title_color=C7A66A&amp;text_color=E8E2D6&amp;border_color=C7A66A"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jolaaja&amp;layout=compact&amp;langs_count=6&amp;bg_color=25231F&amp;title_color=C7A66A&amp;text_color=E8E2D6&amp;border_color=C7A66A&amp;hide_title=true"
     alt="Most used programming languages in public repositories"
   />
 </div>
