@@ -7,26 +7,26 @@
     </defs>
     <rect width="1200" height="380" rx="22" fill="url(#panel)"/>
     <rect x="1" y="1" width="1198" height="378" rx="21" fill="none" stroke="#c7a66a" stroke-opacity=".55" stroke-width="2"/>
-    <text x="600" y="53" text-anchor="middle" fill="#f4efe7" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" letter-spacing="5">LIVE WEBSITES</text>
+    <text x="600" y="53" text-anchor="middle" fill="#f4efe7" font-family="Segoe UI,Arial,sans-serif" font-size="26" font-weight="700" letter-spacing="5">LIVE WEBSITES</text>
     <rect x="440" y="70" width="320" height="2" rx="1" fill="url(#rule)"/>
     <g font-family="Segoe UI,Arial,sans-serif">
           <rect x="42" y="101" width="352" height="230" rx="14" fill="#171717" stroke="#c7a66a" stroke-opacity=".28"/>
-          <text x="70" y="145" fill="#c7a66a" font-size="13" font-weight="700" letter-spacing="2">01 / PORTFOLIO</text>
-          <text x="70" y="190" fill="#f4efe7" font-size="20" font-weight="700">Personal Portfolio</text>
-          <text x="70" y="224" fill="#c9c1b4" font-size="15">Profile, portfolio, and project</text>
-          <text x="70" y="247" fill="#c9c1b4" font-size="15">case studies.</text>
+          <text x="70" y="145" fill="#c7a66a" font-size="16" font-weight="700" letter-spacing="2">01 / PORTFOLIO</text>
+          <text x="70" y="190" fill="#f4efe7" font-size="24" font-weight="700">Personal Portfolio</text>
+          <text x="70" y="224" fill="#c9c1b4" font-size="18">Profile, portfolio, and project</text>
+          <text x="70" y="247" fill="#c9c1b4" font-size="18">case studies.</text>
           <rect x="70" y="282" width="70" height="2" rx="1" fill="#c7a66a"/>
           <rect x="424" y="101" width="352" height="230" rx="14" fill="#171717" stroke="#c7a66a" stroke-opacity=".28"/>
-          <text x="452" y="145" fill="#c7a66a" font-size="13" font-weight="700" letter-spacing="2">02 / HOSPITALITY</text>
-          <text x="452" y="190" fill="#f4efe7" font-size="20" font-weight="700">The Koi</text>
-          <text x="452" y="224" fill="#c9c1b4" font-size="15">A hospitality website for stays,</text>
-          <text x="452" y="247" fill="#c9c1b4" font-size="15">wellness, and dining.</text>
+          <text x="452" y="145" fill="#c7a66a" font-size="16" font-weight="700" letter-spacing="2">02 / HOSPITALITY</text>
+          <text x="452" y="190" fill="#f4efe7" font-size="24" font-weight="700">The Koi</text>
+          <text x="452" y="224" fill="#c9c1b4" font-size="18">A hospitality website for stays,</text>
+          <text x="452" y="247" fill="#c9c1b4" font-size="18">wellness, and dining.</text>
           <rect x="452" y="282" width="70" height="2" rx="1" fill="#c7a66a"/>
           <rect x="806" y="101" width="352" height="230" rx="14" fill="#171717" stroke="#c7a66a" stroke-opacity=".28"/>
-          <text x="834" y="145" fill="#c7a66a" font-size="13" font-weight="700" letter-spacing="2">03 / WEB APP</text>
-          <text x="834" y="190" fill="#f4efe7" font-size="20" font-weight="700">Photoboothbae</text>
-          <text x="834" y="224" fill="#c9c1b4" font-size="15">A free online photo booth</text>
-          <text x="834" y="247" fill="#c9c1b4" font-size="15">with printable photo strips.</text>
+          <text x="834" y="145" fill="#c7a66a" font-size="16" font-weight="700" letter-spacing="2">03 / WEB APP</text>
+          <text x="834" y="190" fill="#f4efe7" font-size="24" font-weight="700">Photoboothbae</text>
+          <text x="834" y="224" fill="#c9c1b4" font-size="18">A free online photo booth</text>
+          <text x="834" y="247" fill="#c9c1b4" font-size="18">with printable photo strips.</text>
           <rect x="834" y="282" width="70" height="2" rx="1" fill="#c7a66a"/>
     </g>
 </svg>
