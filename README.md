@@ -1,14 +1,6 @@
 <div align="center">
 
 <img
-  width="96"
-  src="https://avatars.githubusercontent.com/u/183928740?v=4"
-  alt="Andi Adi Saputra"
-/>
-
-<br /><br />
-
-<img
   src="Assets/Projects/hero.svg"
   width="100%"
   alt="Andi Adi Saputra - Informatics Engineering Student and Full-Stack Developer"
