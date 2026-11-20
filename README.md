@@ -60,9 +60,6 @@
 </div>
 
 <p align="center">
-  <a href="https://jolaaja.github.io">
-    <img src="https://img.shields.io/badge/PERSONAL_PORTFOLIO-Visit-C7A66A?style=for-the-badge&amp;labelColor=25231F" alt="Visit Personal Portfolio" />
-  </a>
   <a href="https://www.the-koi.my.id/">
     <img src="https://img.shields.io/badge/THE_KOI-Visit-C7A66A?style=for-the-badge&amp;labelColor=25231F" alt="Visit The Koi" />
   </a>
