@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Andi Adi Saputra</title>
+  <desc id="desc">Informatics Engineering student and Full-Stack Developer based in Bandung, Indonesia.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#171717"/>
+      <stop offset="0.58" stop-color="#24211b"/>
+      <stop offset="1" stop-color="#3b3326"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8f7445"/>
+      <stop offset="0.52" stop-color="#d5bd8a"/>
+      <stop offset="1" stop-color="#8f7445"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#f4efe7" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="300" rx="22" fill="url(#background)"/>
+  <rect width="1200" height="300" rx="22" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="298" rx="21" fill="none" stroke="#c7a66a" stroke-opacity="0.55" stroke-width="2"/>
+
+  <path d="M42 78V42H78M1122 42h36v36M42 222v36h36M1122 258h36v-36" fill="none" stroke="#c7a66a" stroke-opacity="0.8" stroke-width="2"/>
+
+  <circle cx="1000" cy="150" r="95" fill="none" stroke="#c7a66a" stroke-opacity="0.08" stroke-width="1"/>
+  <circle cx="1000" cy="150" r="70" fill="none" stroke="#c7a66a" stroke-opacity="0.12" stroke-width="1"/>
+  <circle cx="1000" cy="150" r="44" fill="none" stroke="#c7a66a" stroke-opacity="0.18" stroke-width="1"/>
+  <circle cx="1000" cy="150" r="5" fill="#c7a66a"/>
+  <path d="M1000 55V245M905 150h190M933 83l134 134M933 217l134-134" stroke="#c7a66a" stroke-opacity="0.12" stroke-width="1"/>
+  <circle cx="1000" cy="55" r="3" fill="#d5bd8a"/>
+  <circle cx="1095" cy="150" r="3" fill="#d5bd8a"/>
+  <circle cx="1000" cy="245" r="3" fill="#d5bd8a"/>
+  <circle cx="905" cy="150" r="3" fill="#d5bd8a"/>
+
+  <text x="92" y="105" fill="#c7a66a" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="4">INFORMATICS ENGINEERING · BANDUNG, INDONESIA</text>
+  <text x="88" y="169" fill="#f4efe7" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="700" letter-spacing="1">ANDI ADI SAPUTRA</text>
+  <rect x="92" y="193" width="112" height="3" rx="1.5" fill="url(#accent)"/>
+  <text x="92" y="229" fill="#d8d1c5" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="500" letter-spacing="2">FULL-STACK DEVELOPER</text>
+  <text x="92" y="259" fill="#b9b1a3" font-family="Segoe UI, Arial, sans-serif" font-size="14" letter-spacing="1">Building thoughtful, useful digital experiences.</text>
+</svg>

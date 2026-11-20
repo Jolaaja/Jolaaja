@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-labelledby="title desc">
+  <title id="title">Connect</title>
+  <desc id="desc">Find Andi Adi Saputra on LinkedIn, GitHub, and portfolio.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#171717"/>
+      <stop offset="0.5" stop-color="#29251e"/>
+      <stop offset="1" stop-color="#171717"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#c7a66a" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#c7a66a" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#c7a66a" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="150" rx="20" fill="url(#background)"/>
+  <rect x="1" y="1" width="1198" height="148" rx="19" fill="none" stroke="#c7a66a" stroke-opacity="0.4" stroke-width="2"/>
+  <text x="600" y="65" text-anchor="middle" fill="#f4efe7" font-family="Segoe UI, Arial, sans-serif" font-size="27" font-weight="700" letter-spacing="7">LET'S CONNECT</text>
+  <text x="600" y="96" text-anchor="middle" fill="#c7a66a" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="3">FIND ME ONLINE</text>
+  <rect x="180" y="121" width="840" height="2" rx="1" fill="url(#rule)"/>
+</svg>
